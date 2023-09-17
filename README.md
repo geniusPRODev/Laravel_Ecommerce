@@ -23,7 +23,7 @@ It is a Laravel 8 blade template based demo project reflecting advance features 
 2. Open terminal (bash/cmd). Then go to project folder using command
 
 ```sh
-cd Laravel-Advance-Ecommerce
+cd Laravel_Ecommerce
 ```
 
 3. Then install required files and libraries using 
